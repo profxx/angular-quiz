@@ -1,0 +1,36 @@
+{
+  "title": "Você seria herói ou vilão?",
+  "questions": [
+    {
+      "id":1,
+      "question":"Qual super poder você escolheria?",
+      "options":[
+        {"id":1, "name":"Raios-lasers", "alias":"A"},
+        {"id":2, "name":"Voar", "alias":"B"},
+        {"id":3, "name":"Explodir coisas", "alias":"A"},
+        {"id":4, "name":"Curar feridas", "alias":"B"},
+        {"id":5, "name":"Soltar fogo com as mãos", "alias":"A"}]
+    },
+    {
+      "id":2,
+      "question":"Qual o seu veículo?",
+      "options":[
+        {"id":1, "name":"Moto", "alias":"A"},
+        {"id":2, "name":"Carro", "alias":"B"},
+        {"id":3, "name":"Trem", "alias":"A"},
+        {"id":4, "name":"Tapete", "alias":"B"},
+        {"id":5, "name":"Avião", "alias":"A"}]
+    },
+    {
+      "id":3,
+      "question": "Qual cor você teria?",
+      "options":[
+        {"id":1, "name":"Vermelho", "alias":"A"},
+        {"id":2, "name":"Azul", "alias":"B"},
+        {"id":3, "name":"Preto", "alias":"A"},
+        {"id":4, "name":"Branco", "alias":"B"},
+        {"id":5, "name":"Cinza", "alias":"A"}]
+    }
+  ]
+}
+
